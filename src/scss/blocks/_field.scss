@@ -1,0 +1,15 @@
+#field {
+    position: relative;
+    height: 80vh;
+    width: 80vw;
+    background-color: green;
+    #box {
+        position: absolute;
+        top: 0;
+        left: 0;
+        border: 2px solid black;
+        border-radius: 10px;
+        overflow: hidden;
+        cursor: pointer;
+    }
+}

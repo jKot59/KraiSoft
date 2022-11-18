@@ -1,0 +1,5 @@
+/node_modules
+/gulpfile.js
+/webpack.config.js
+/src/mailer
+/dist/mailer
